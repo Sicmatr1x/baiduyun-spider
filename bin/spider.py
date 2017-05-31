@@ -8,7 +8,7 @@ DB_HOST = '127.0.0.1'
 DB_PORT = '3306'
 DB_USER = 'root'
 # MySQL密码
-DB_PASS = '123456'
+DB_PASS = 'root'
 # 数据库名称
 DB_NAME = 'pan'
 SPIDER_INTERVAL = 10  # 至少保证10秒以上，否则容易被封
